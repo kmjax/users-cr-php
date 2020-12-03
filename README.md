@@ -1,8 +1,8 @@
-### Project: Users - Create and Read from MySQL using PHP
+### Project: Users Table - Create and Read from MySQL using PHP
 
 #### LINKS
 
-1. _*Page not active yet!*_ This project's page: [https://kmjax.surge.sh/hw/2020-12-02_php2/](https://kmjax.surge.sh/hw/2020-12-02_php2/) 
+1. This project's page: [https://kmjax.surge.sh/hw/2020-12-02_php2/](https://kmjax.surge.sh/hw/2020-12-02_php2/) 
 1. Menu of all projects: [https://kmjax.surge.sh](https://kmjax.surge.sh)
 
 #### DESCRIPTION
@@ -18,14 +18,14 @@ Create a User's web page in PHP with the following objectives:
 
 #### STATUS
 
-1% - Just started! To be completed no later than the morning of 2020-12-03.
+COMPLETED on 2020-12-03.
 
-_NOTE: Since these live assignment pages are stored on Surge.sh, a static image of the webpage output is displayed instead of a live page. This is due to Surge.sh not being able to host dynamic web pages like PHP._
+_NOTE: Since these live assignment pages are stored on Surge.sh, static images of the webpage output is displayed instead of a live page. This is due to Surge.sh not being able to host dynamic web pages generated via PHP code._
 
 #### SOURCE
 
-GitHub repository: [https://github.com/kmjax/user-cr-php](https://github.com/kmjax/user-cr-php)
+GitHub repository: [https://github.com/kmjax/users-cr-php](https://github.com/kmjax/users-cr-php)
 
 Clone from GitHub via HTTPS:
 
-`git clone https://github.com/kmjax/user-cr-php.git`
+`git clone https://github.com/kmjax/users-cr-php.git`
