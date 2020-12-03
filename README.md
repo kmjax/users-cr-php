@@ -1,8 +1,8 @@
-### Project: Basic PHP - Two Assignments
+### Project: Users - Create and Read from MySQL using PHP
 
 #### LINKS
 
-1. This project's page: [https://kmjax.surge.sh/hw/2020-12-02_php2/](https://kmjax.surge.sh/hw/2020-12-02_php2/) _*Page not active yet!*_
+1. _*Page not active yet!*_ This project's page: [https://kmjax.surge.sh/hw/2020-12-02_php2/](https://kmjax.surge.sh/hw/2020-12-02_php2/) 
 1. Menu of all projects: [https://kmjax.surge.sh](https://kmjax.surge.sh)
 
 #### DESCRIPTION
