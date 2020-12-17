@@ -2,7 +2,7 @@
 
 #### LINKS
 
-1. This project's page: [https://kmjax.surge.sh/hw/2020-12-02_php2/](https://kmjax.surge.sh/hw/2020-12-02_php2/) 
+1. This project's page: [https://www.kmcode.com/kmjax/users_cr](https://www.kmcode.com/kmjax/users_cr)
 1. Menu of all projects: [https://kmjax.surge.sh](https://kmjax.surge.sh)
 
 #### DESCRIPTION
